@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChartDrawer</string>
+    <string name="activityLabel">Statistics</string>
+    <string name="chartsTitle">Followers</string>
+    <string name="select_json_input_file">Select JSON input file...</string>
+    <string name="start_with_demo_json">Start with DEMO JSON</string>
+</resources>

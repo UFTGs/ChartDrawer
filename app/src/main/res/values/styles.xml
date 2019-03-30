@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorBackground">@color/colorActivityBackground</item>
+        <item name="android:textColorPrimary">@color/colorText</item>
+        <item name="android:textColorPrimaryInverse">@color/colorTextNight</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+    </style>
+    <style name="AppThemeNight" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryNight</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkNight</item>
+        <item name="android:colorBackground">@color/colorActivityBackgroundNight</item>
+        <item name="android:textColorPrimary">@color/colorTextNight</item>
+        <item name="android:textColorPrimaryInverse">@color/colorText</item>
+        <item name="android:textColor">@color/colorTextNight</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryNight</item>
+    </style>
+    <style name="ColumnCheckBoxStyle" parent="Base.Widget.AppCompat.CompoundButton.CheckBox">
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">105dp</item>
+        <item name="android:layout_marginBottom">15dp</item>
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:paddingRight">15dp</item>
+    </style>
+</resources>

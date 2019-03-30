@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#517da2</color>
+    <color name="colorPrimaryDark">#426382</color>
+    <color name="colorChartsTitle">#3896d4</color>
+    <color name="colorActivityBackground">#ffffff</color>
+    <color name="colorTextHeader">#ffffff</color>
+    <color name="colorText">#000000</color>
+
+    <color name="colorPrimaryNight">#212d3b</color>
+    <color name="colorPrimaryDarkNight">#1a242e</color>
+    <color name="colorChartsTitleNight">#7bc4fb</color>
+    <color name="colorActivityBackgroundNight">#1d2733</color>
+    <color name="colorTextNight">#ffffff</color>
+</resources>
